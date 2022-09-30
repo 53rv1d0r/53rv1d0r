@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/53rv1d0r](https://github.com/53rv1d0r)
 
-- 📝 I regularly write articles on [tekknia.com](tekknia.com)
+<!-- 📝 I regularly write articles on [tekknia.com](tekknia.com)-->
+
+- 📝 As an agile development methodology **Scrum**
+
+- ⚡ Fun fact: ... I enjoy working on requirements engineering and Business Process Management Software (Bizagi, Enterprise architech)
 
 - 💬 Ask me about **Laravel**
 
