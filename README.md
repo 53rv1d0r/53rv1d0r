@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm 4/3x4ndr0 RpG</h1>
 <h3 align="center">A passionate frontend developer from C0l0mb14</h3>
 
+- 👯 I have worked as a software developer for Ordenamientos Profesionales Automatizados (OPA) in .Net, Visual Foxpro, REST and MVC architectures, C# and other projects, for 2 years in Medellín.
+
 - 🔭 I’m currently working on [Predicción toma CDT´s clientes banco](https://github.com/53rv1d0r/prediccion_ia_cdt)
 
 - 🌱 I’m currently learning **Phyton, R**
