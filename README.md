@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **web based projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/53rv1d0r](https://github.com/53rv1d0r)
+- 👨‍💻 Some of my projects are available at [https://github.com/53rv1d0r](https://github.com/53rv1d0r)
 
 <!-- 📝 I regularly write articles on [tekknia.com](tekknia.com)-->
 
