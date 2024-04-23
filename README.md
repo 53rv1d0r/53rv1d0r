@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm 4/3x4ndr0 RpG</h1>
 <h3 align="center">A passionate frontend developer from C0l0mb14</h3>
 
+- 👯 I have worked for Machine Learning Technologies as a scrum master and project manager for up to 9 simultaneous projects and guiding more than 10 developers. Main project developed: symbol detection software using artificial intelligence model.
+
+- 👯 I have worked for Max Conecta using Laravel for PHP, mysql, docker, for 1 year in Medellín.
+
+- 👯 I  have worked for Universidad Católica Luís Amigó using native PHP, SCRUM methodologies and configurations for the Moodle platform with more than 17,000 users.
+
 - 👯 I have worked as a software developer for Ordenamientos Profesionales Automatizados (OPA) in .Net, Visual Foxpro, REST and MVC architectures, C# and other projects, for 2 years in Medellín.
 
 - 🔭 I’m currently working on [Predicción toma CDT´s clientes banco](https://github.com/53rv1d0r/prediccion_ia_cdt)
