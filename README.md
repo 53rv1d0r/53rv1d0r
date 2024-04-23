@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm 4/3x4ndr0 RpG</h1>
-<h3 align="center">A passionate frontend developer from C0l0mb14</h3>
+<h3 align="center">A passionate web developer from C0l0mb14</h3>
 
 - 👯 I have worked for Machine Learning Technologies as a scrum master and project manager for up to 9 simultaneous projects and guiding more than 10 developers. Main project developed: symbol detection software using artificial intelligence model.
 
